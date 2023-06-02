@@ -3,5 +3,6 @@
 ### Author:
 Max Throgmorton
 
-## What does it do?
-GEN_WUSH is a CPX Awduino game avawible fow aww pwayeas
+## Basic Description
+GEN_RUSH is a CPX Arduino game availible to all CIrcuit Playground Express devices.
+It is loosely based on the Generator Minigames from Dead by Daylight
